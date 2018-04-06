@@ -15,4 +15,3 @@ class LianjiaspiderxItem(scrapy.Item):
     size = scrapy.Field()
     orientation = scrapy.Field()
     price = scrapy.Field()
-
